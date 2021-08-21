@@ -1,0 +1,10 @@
+pyttsx3
+speech_recognition as sr
+wikipedia
+webbrowser
+datetime
+os
+smtplib
+random
+pyjokes
+urllib.parse
