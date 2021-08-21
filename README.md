@@ -40,3 +40,7 @@ pip3 install pyjokes
 * Dictionary with Intelligent Sensing i.e. auto checking if spell mistake
 * YouTube searching
 * Google Map searching
+
+
+### Contribution:
+A lot can be done with this project. Core AI chatbot like functionality can be added. More python scripts can be associated. Pull requests for any such changes are accepted. Feel free to fork this project and make your own changes too.
