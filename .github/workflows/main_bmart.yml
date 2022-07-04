@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'bmart'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73E5C36D272E44CC94F0D4992749D102 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0B5EED57D0D14D0CBC57A57EDAB98137 }}
